@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@stripe/react-stripe-js": "^2.3.0",
+    "@stripe/stripe-js": "^2.1.6",
+    "emailjs-com": "^3.2.0",
+    "react-icons": "^4.11.0"
+  }
+}
